@@ -2,7 +2,7 @@
 title: "Gunung Pegat"
 description: "Bukit di Desa Karangasem"
 pubDate: "Feb 10 2024"
-heroImage: "/public/blog-placeholder-1.jpg"
+heroImage: "/objek-wisata-puncak-gunung-pegat-di-desa-karangasem.webp"
 ---
 
 **Gunung Pegat: Keindahan Alam yang Memukau di Desa Karangansem, Sukoharjo**
